@@ -3,8 +3,8 @@
   <channel>
     <title>UNSW LoL Society</title>
     <description>UNSW League of Legends Society</description>
-    <link>http://unswlolsoc.com</link>
-    <atom:link href="http://unswlolsoc.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://unswlolsoc.com</link>
+    <atom:link href="https://unswlolsoc.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>End of Year Newsletter 2018</title>
@@ -13,8 +13,8 @@
           Hi everyone, on behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us! NEEKO-suto! Let’s take a look at the snapshots of our...
         </description>
         <pubDate>Sun, 13 Jan 2019 00:00:00 +1100</pubDate>
-        <link>http://unswlolsoc.com/2019-01-13-eoy-newsletter-v2/</link>
-        <guid isPermaLink="true">http://unswlolsoc.com/2019-01-13-eoy-newsletter-v2/</guid>
+        <link>https://unswlolsoc.com/2019-01-13-eoy-newsletter-v2/</link>
+        <guid isPermaLink="true">https://unswlolsoc.com/2019-01-13-eoy-newsletter-v2/</guid>
       </item>
     
       <item>
@@ -24,8 +24,8 @@
           Hi everyone, on behalf of both the outgoing and current executive team, we would like to wish all UNSW LoLSoc members a happy new year! Thank you for being a part of our 2018 and creating amazing memories with us! NEEKO-suto! Let’s take a look at the snapshots of our...
         </description>
         <pubDate>Sun, 13 Jan 2019 00:00:00 +1100</pubDate>
-        <link>http://unswlolsoc.com/2019-01-13-events_master/</link>
-        <guid isPermaLink="true">http://unswlolsoc.com/2019-01-13-events_master/</guid>
+        <link>https://unswlolsoc.com/2019-01-13-events_master/</link>
+        <guid isPermaLink="true">https://unswlolsoc.com/2019-01-13-events_master/</guid>
       </item>
     
       <item>
@@ -35,8 +35,8 @@
           You can write regular markdown here and Jekyll will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a...
         </description>
         <pubDate>Sat, 28 Feb 2015 00:00:00 +1100</pubDate>
-        <link>http://unswlolsoc.com/2015-02-28-test-markdown/</link>
-        <guid isPermaLink="true">http://unswlolsoc.com/2015-02-28-test-markdown/</guid>
+        <link>https://unswlolsoc.com/2015-02-28-test-markdown/</link>
+        <guid isPermaLink="true">https://unswlolsoc.com/2015-02-28-test-markdown/</guid>
       </item>
     
       <item>
@@ -46,8 +46,8 @@
           To be, or not to be–that is the question: Whether ‘tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep– No more–and by a sleep to say we...
         </description>
         <pubDate>Fri, 13 Feb 2015 00:00:00 +1100</pubDate>
-        <link>http://unswlolsoc.com/2015-02-13-hamlet-monologue/</link>
-        <guid isPermaLink="true">http://unswlolsoc.com/2015-02-13-hamlet-monologue/</guid>
+        <link>https://unswlolsoc.com/2015-02-13-hamlet-monologue/</link>
+        <guid isPermaLink="true">https://unswlolsoc.com/2015-02-13-hamlet-monologue/</guid>
       </item>
     
   </channel>
