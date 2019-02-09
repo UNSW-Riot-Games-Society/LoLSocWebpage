@@ -17,27 +17,5 @@
         <guid isPermaLink="true">https://unswlolsoc.com/2019-01-13-eoy-newsletter-v2/</guid>
       </item>
     
-      <item>
-        <title>Test markdown</title>
-        <description>
-          Each post also has a subtitle - 
-          You can write regular markdown here and Jekyll will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a...
-        </description>
-        <pubDate>Sat, 28 Feb 2015 00:00:00 +1100</pubDate>
-        <link>https://unswlolsoc.com/2015-02-28-test-markdown/</link>
-        <guid isPermaLink="true">https://unswlolsoc.com/2015-02-28-test-markdown/</guid>
-      </item>
-    
-      <item>
-        <title>To be</title>
-        <description>
-          ... or not to be? - 
-          To be, or not to be–that is the question: Whether ‘tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep– No more–and by a sleep to say we...
-        </description>
-        <pubDate>Fri, 13 Feb 2015 00:00:00 +1100</pubDate>
-        <link>https://unswlolsoc.com/2015-02-13-hamlet-monologue/</link>
-        <guid isPermaLink="true">https://unswlolsoc.com/2015-02-13-hamlet-monologue/</guid>
-      </item>
-    
   </channel>
 </rss>
