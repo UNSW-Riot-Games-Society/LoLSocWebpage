@@ -23,7 +23,7 @@ After a year with only one international appearance at Rift Rivals, SKT T1 have 
 
 Their top laner is Kim “Khan” Dong-ha who moved from last year’s Kingzone DragonX. Their jungler is Kim “Clid” Tae-min who played for Jing Dong Gaming (JDG) in LPL 2018 where once upon a time, he could not secure a Baron for his life. Their mid laner is still Lee “Faker” Sang-hyeok. Their bot laner is Park “Teddy” Jin-seong who you may remember as 2018 Jin Air Greenwings’ carry. Finally, their support is Cho “Mata” Se-hyeong who was on KT Rolster last year.
 
-With a roster like this, if kkOma decides to put Faker on Taric again, I think less people will complain. Fun fact, this is the third team that Mata has ever won an LCK title on.
+With a roster like this, if kkOma decides to put Faker on Taric again, I think fewer people will complain. Fun fact, this is the third team that Mata has ever won an LCK title on.
 <br> <br>
 
 ## **2. LPL’s (China’s) Invictus Gaming (IG)**
