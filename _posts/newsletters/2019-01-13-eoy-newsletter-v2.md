@@ -106,7 +106,7 @@ Our Rumble tournament is an initiative alongside Riot Games to cater for lower d
 
 ![](https://xelus22.github.io/LoLSocWebpage/uploads/862892f3-5e38-44a2-84d1-344975122219.jpg)
 
-The above showcases just a few of our many amazing subcommittee members who have contributed to making LoLSoc events fun and engaging. If you really enjoyed our BBQs, Rumble tournament and Worlds viewing party, or gained ELO after being coached at our social LAN, these events wouldn't have been amazing without the help of our subcoms! Similarly the comprehensive articles, eye-catching posts and banners, and event photos -if you remember a guy always pointing a camera your way at the events to capture each precious moment-, these are also our marketing subcoms working behind-the-scenes (or hiding behind).  Thank you for joining us this year and using your kindness and passion to help LoLSoc grow!
+The above showcases just a few of our many amazing subcommittee members who have contributed to making LoLSoc events fun and engaging. If you really enjoyed our BBQs, Rumble tournament and Worlds viewing party, or gained ELO after being coached at our social LAN, these events wouldn't have been amazing without the help of our subcoms! Similarly, the comprehensive articles, eye-catching posts and banners, and event photos -if you remember a guy always pointing a camera your way at the events to capture each precious moment-, these are also our marketing subcoms working behind-the-scenes (or hiding behind).  Thank you for joining us this year and using your kindness and passion to help LoLSoc grow!
 <br>
 <br>
 
