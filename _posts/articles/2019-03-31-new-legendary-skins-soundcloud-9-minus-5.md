@@ -34,7 +34,7 @@ To celebrate SoundCloud’s multi-year partnership with Riot Games to globally s
 
 She’s conquered K-pop twice, but now it’s time for the Nine-Tailed Fox to claim her crown as the Queen of Rap.
 
-* If Ahri B hits a champion with Charm, she can steal all of the Charmed champion’s Gold and they will blackout and wake up in a random location in the jungle. <br> <br>
+* If Ahri B hits a champion with Charm, she can steal all of the Charmed champion’s Gold and they will black out and wake up in a random location in the jungle. <br> <br>
 
 ## **Juice WRWICK**
 
