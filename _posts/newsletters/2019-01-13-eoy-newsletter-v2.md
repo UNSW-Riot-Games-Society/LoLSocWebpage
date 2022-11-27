@@ -132,4 +132,4 @@ The journey with LoLSoc in 2018 ended once again with a LAN at WangYu. This time
 
 Thanks for reading and credits to Kenzo Jeanson (Marketing Publications Director) for helping me put this newsletter together!
 
-Also, a massive shout out to all our sponsors this year for their continuous support and enrichment to our events. We look forward to an even better upcoming year with you!
+Also, a massive shout-out to all our sponsors this year for their continuous support and enrichment to our events. We look forward to an even better upcoming year with you!
