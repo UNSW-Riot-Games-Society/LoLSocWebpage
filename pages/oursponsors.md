@@ -69,7 +69,7 @@ and opportunities for our society.
     <td style="width: 65%; text-align: center;">
       <h2><b> WANGYU:</b></h2>
       <h3> CONCEPT INTERNET CAFÉ </h3>
-      Established in 1998, WangYu is striving relentlessly to a healthy, joyful e-entertainment, pushing cyber café to a positive healthy direction, and redefining cyber café an unique mixture of service and culture. 15 years of dedication, WangYu is well known
+      Established in 1998, WangYu is striving relentlessly to a healthy, joyful e-entertainment, pushing cyber café to a positive healthy direction, and redefining cyber café a unique mixture of service and culture. 15 years of dedication, WangYu is well known
       by the community and loved by many! The WangYu team are keen to every effort in leading the Cyber Café industry.
       <br><br> <a href="https://www.wangyu.com.au/" target="_blank">Click here to find out more about their latest cyber cafe facilities</a>
     </td>
