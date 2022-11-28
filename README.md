@@ -46,7 +46,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ### 2. Rename the repository to `<yourusername>.github.io`
 
-This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes.  To do this, click on *Settings* at the top (the cog icon) and there you'll have an option to rename.
+This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple of minutes.  To do this, click on *Settings* at the top (the cog icon) and there you'll have an option to rename.
 
 ### 3. Customize your website settings
 
